@@ -1,0 +1,80 @@
+    1  cd
+    2  cd desktop
+    3  man
+    4  pwd
+    5  mkdir
+    6  ls
+    7  cd
+    8  cd
+    9  ls
+   10  cd Desktop
+   11  ls
+   12  pwd
+   13  cd скрін\ з\ тестдрайв
+   14  pwd
+   15  cd..
+   16  cd..
+   17  cd Desktop
+   18  cd скрін\ з\ тестдрайв
+   19  cd..
+   20  cd ..
+   21  mkdir Lesson
+   22  ls
+   23  mkdir Lesson2
+   24  ls
+   25  cd ..
+   26  touch empty.txt
+   27  ls
+   28  cd Desktop
+   29  touch empty.txt
+   30  ls
+   31  clear
+   32  pwd
+   33  ls
+   34  man cd
+   35  ls
+   36  cd Downloads
+   37  cd ..
+   38  cd Desktop
+   39  wim empty.txt
+   40  ls
+   41  wim empty.txt
+   42  rm empty.txt
+   43  rm lessol
+   44  cd GIT
+   45  git config --global user.name "Iryna Vasylieva"
+   46  git config --global user.email irka.vasylieva@gmail.com
+   47  git clone https://github.com/Iryna94/HW_10.git
+   48  clear
+   49  cd GIT
+   50  cd Desktop/
+   51  cd GIT
+   52  git config --global user.name "Iryna Vasylieva"
+   53  git config --global user.email irka.vasylieva@gmail.com
+   54  git clone https://github.com/Iryna94/HW_10.git
+   55  cd HW_10
+   56  touch text_ignore.txt
+   57  nano .gitignore
+   58  git status
+   59  git add .gitignore
+   60  git status
+   61  git commit -m "New file created"
+   62  touch main_test.txt
+   63  git add main_test.txt
+   64  git commit -m "New file"
+   65  git checkout -b develop
+   66  git checkout develop
+   67  touch develop_test.txt
+   68  git add develop_test.txt
+   69  git commit -b "New file"
+   70  commit -m "New file"
+   71  git commit -m "New file"
+   72  nano develop_test.txt
+   73  git status
+   74  git add develop_test.txt
+   75  git status
+   76  git commit -m "New develop file"
+   77  git checkout main
+   78  git merge develop
+   79  git log
+   80  command_list.csv
